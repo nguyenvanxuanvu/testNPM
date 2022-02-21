@@ -1,0 +1,19 @@
+{
+  "name": "thetest",
+  "version": "1.1.0",
+  "description": "tt",
+  "main": "Tutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvanxuanvu/testNPM.git"
+  },
+  "author": "xuanvu <nguyenvanxuanvu231@gmail.com> (https://github.com/nguyenvanxuanvu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenvanxuanvu/testNPM/issues"
+  },
+  "homepage": "https://github.com/nguyenvanxuanvu/testNPM#readme"
+}
